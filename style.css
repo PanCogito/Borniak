@@ -17,7 +17,7 @@ body {
 
 .header {
 	min-height:100vh;
-	padding:250px 0;
+	padding:200px 0;
 	background:url(header.jpg) center/cover no-repeat fixed;
 	text-align:center;
 	color:#fff;
