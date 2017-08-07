@@ -2,7 +2,7 @@
 	margin:0;
 	padding: 0;
 	box-sizing: border-box;
-	
+
 }
 
 body {
@@ -72,4 +72,5 @@ body {
 	}
 .footer {
 	padding: 30px;
+	background-color: red;
 }
